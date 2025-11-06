@@ -1,0 +1,71 @@
+EcoEnergia Inc. - Energía Asequible y No Contaminante
+
+INFORME INTEGRAL DEL PROYECTO
+
+1. Nombre del Proyecto
+EcoEnergia Inc. - Energía Asequible y No Contaminante
+
+2. Introducción
+En el contexto actual de crisis climática y desigualdad energética, EcoEnergia Inc. surge como una iniciativa innovadora que busca transformar la realidad de comunidades urbanas y rurales en Colombia y América Latina. Este proyecto web es la carta de presentación digital de la empresa, diseñada para informar, educar, conectar y generar impacto social y ambiental positivo.
+
+3. Objetivos del Proyecto
+- General: Promover el acceso universal a energías renovables, sostenibles y modernas, contribuyendo al desarrollo sostenible y la equidad social.
+- Específicos:
+  - Difundir información clara y confiable sobre energías limpias.
+  - Facilitar el contacto entre la empresa y potenciales clientes o aliados.
+  - Mostrar el impacto real de los proyectos realizados.
+  - Fomentar la educación ambiental y la conciencia social.
+
+4. Público Objetivo
+- Comunidades rurales y urbanas interesadas en soluciones energéticas.
+- Empresas, instituciones educativas y organizaciones sociales.
+- Estudiantes, docentes y público general con interés en sostenibilidad.
+
+5. Estructura y Contenido del Sitio Web
+ a) Inicio: Presenta la misión, visión y valores de EcoEnergia Inc., con un diseño visual atractivo y elementos gráficos que refuerzan el mensaje de sostenibilidad.
+ b) Nosotros: Describe la historia, el equipo y el compromiso social de la empresa, destacando su cobertura regional y proyección internacional.
+ c) Valores: Enumera los principios éticos y profesionales que guían cada acción de la empresa: sostenibilidad, innovación, responsabilidad social, transparencia y trabajo en equipo.
+ d) ODS7 y Tipos de Energía: Explica el Objetivo de Desarrollo Sostenible 7 (Energía Asequible y No Contaminante) y detalla las principales fuentes de energía renovable: solar, eólica, hidráulica y biomasa, con información educativa y visual.
+ e) Impacto Social y Ambiental: Muestra los logros de la empresa en términos de comunidades beneficiadas, reducción de emisiones, generación de empleo y transformación social.
+ f) Galería de Proyectos: Incluye tarjetas visuales con imágenes reales y descripciones de proyectos emblemáticos, como instalaciones solares rurales, parques eólicos, microhidroeléctricas y proyectos de biomasa comunitaria.
+ g) Testimonios: Recoge opiniones de clientes, líderes comunitarios y aliados estratégicos, generando confianza y validando el impacto positivo de la empresa.
+ h) Recursos y Calculadora: Ofrece materiales educativos, enlaces útiles y una calculadora interactiva para estimar el ahorro energético y el impacto ambiental de adoptar energías limpias.
+ i) Contacto: Formulario intuitivo para solicitar asesoría personalizada, cotizaciones o información adicional, con atención en línea vía WhatsApp.
+ j) Mapa Interactivo: Muestra la ubicación exacta de la empresa en Google Maps, facilitando la visita presencial y la confianza del usuario.
+ k) Elementos de Navegación y Accesibilidad: Botones flotantes para WhatsApp y “ir arriba”, menú responsivo y diseño adaptado a dispositivos móviles.
+
+6. Innovaciones y Diferenciadores
+- Diseño visual moderno: Uso de colores, iconos y animaciones que refuerzan la identidad ecológica.
+- Experiencia de usuario (UX): Navegación intuitiva, secciones bien organizadas y accesibilidad mejorada.
+- Contenido educativo: Explicaciones claras sobre energías renovables y sostenibilidad.
+- Enfoque social: Testimonios y casos de éxito reales.
+- Interactividad: Calculadora de ahorro, mapa interactivo y atención en línea.
+
+7. Impacto Esperado
+- Ambiental: Reducción de la huella de carbono, promoción de tecnologías limpias y protección de recursos naturales.
+- Social: Mejora de la calidad de vida, acceso a energía en zonas vulnerables, generación de empleo y empoderamiento comunitario.
+- Económico: Ahorro en costos energéticos, desarrollo de nuevos mercados y fortalecimiento de la economía local.
+
+8. Resultados y Logros
+- Más de 20 proyectos implementados en comunidades rurales y urbanas.
+- Reducción de más de 500 toneladas de CO₂ al año.
+- Más de 1,000 personas beneficiadas directamente.
+- Alianzas con instituciones educativas y organizaciones sociales.
+
+9. Conclusiones
+EcoEnergia Inc. es un ejemplo de cómo la tecnología, la innovación y el compromiso social pueden converger para crear soluciones reales a los desafíos energéticos y ambientales. El sitio web no solo informa, sino que inspira y moviliza a la acción, posicionando a la empresa como líder en sostenibilidad en la región.
+
+10. Recomendaciones Futuras
+- Integrar un blog de noticias y casos de éxito.
+- Añadir videos testimoniales y recorridos virtuales de proyectos.
+- Implementar un sistema de seguimiento de proyectos en tiempo real.
+- Fortalecer la comunidad digital con foros y eventos en línea.
+
+11. Anexos
+- Capturas de pantalla del sitio web.
+- Enlaces a recursos y materiales educativos.
+- Detalles técnicos del desarrollo (HTML, CSS, JS).
+
+---
+
+¡Gracias por su atención!
